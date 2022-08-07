@@ -28,7 +28,7 @@ html{
 body{
     width: 100%;
     height: 100vh;
-    background-color: #bebeb480;
+    background-color: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(images/mountains.jpeg);;
     display: flex;
 }
 
